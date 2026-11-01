@@ -1,4 +1,4 @@
-# aidesignblueprint-com
+# AI Design Blueprint
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,65 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aidesignblueprint-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aidesignblueprint.com/
+AI Design Blueprint provides a doctrine and runtime standard for production agentic AI. It offers principles, examples, runtime architecture guidance, privacy policies, pricing, and tools for building, validating, and deploying agentic systems. The platform includes a handbook, case studies, and integration with major AI coding assistants, aiming to help product designers, engineers, and founders create trustworthy, auditable AI agents.
+
+**Areas:** AI · Agentic · Design · Platform · Blueprint
+
+## AI Design Blueprint on APIs.io
+
+Everything profiled for AI Design Blueprint is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aidesignblueprint-com/](https://apis.io/providers/aidesignblueprint-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [AI Design Blueprint API](https://apis.io/apis/aidesignblueprint-com/aidesignblueprint-com-api/) — AI Design Blueprint API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-01); not the provider's…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AI Design Blueprint API Rules](https://apis.io/rules/aidesignblueprint-com/aidesignblueprint-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aidesignblueprint Com Domain Security](https://apis.io/security/aidesignblueprint-com/aidesignblueprint-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Aidesignblueprint Com Plans Pricing](https://apis.io/plans/aidesignblueprint-com/aidesignblueprint-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aidesignblueprint.com/)
+- [Documentation](https://aidesignblueprint.com/en/guides)
+- [Pricing](https://aidesignblueprint.com/en/pricing)
+- [Support](https://aidesignblueprint.com/en/support)
+- [Trust centre](https://aidesignblueprint.com/en/principles/cluster/trust)
+- [Terms of service](https://aidesignblueprint.com/en/terms)
+- [Privacy policy](https://aidesignblueprint.com/en/privacy)
+- [GitHub](https://github.com/aidesignblueprint)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aidesignblueprint-com/](https://apis.io/providers/aidesignblueprint-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AI Design Blueprint: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aidesignblueprint-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
