@@ -66,7 +66,7 @@
 
 AI Design Blueprint provides a doctrine and runtime standard for production agentic AI. It offers principles, examples, runtime architecture guidance, privacy policies, pricing, and tools for building, validating, and deploying agentic systems. The platform includes a handbook, case studies, and integration with major AI coding assistants, aiming to help product designers, engineers, and founders create trustworthy, auditable AI agents.
 
-**Areas:** AI · Agentic · Design · Platform · Blueprint
+**Areas:** Artificial Intelligence · AI Agents · Design · Platform · Blueprints
 
 ## AI Design Blueprint on APIs.io
 
@@ -90,13 +90,13 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aidesignblueprint Com Domain Security](https://apis.io/security/aidesignblueprint-com/aidesignblueprint-com-domain-security/)
+- [AI Design Blueprint Domain Security](https://apis.io/security/aidesignblueprint-com/aidesignblueprint-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aidesignblueprint Com Plans Pricing](https://apis.io/plans/aidesignblueprint-com/aidesignblueprint-com-plans-pricing/)
+- [AI Design Blueprint Plans Pricing](https://apis.io/plans/aidesignblueprint-com/aidesignblueprint-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -113,7 +113,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/aidesignblueprint-com/](https://apis.io/providers/aidesignblueprint-com/).
+**Kin Score 29.9** — thin · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 9.4 |
+| Contract governance | 22.0 |
+| Operational transparency | 4.8 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 70.2 |
+
+**Agent readiness 35.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aidesignblueprint-com/](https://apis.io/providers/aidesignblueprint-com/).
 
 ## How this profile is made
 
